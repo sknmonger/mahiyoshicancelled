@@ -1,0 +1,284 @@
+
+
+
+
+
+body
+{
+    text-align: center;
+    background-color: rgb(4, 27, 4);
+    color: #9b0c0c;
+    padding: auto auto;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url(background2038.gif);
+    background-repeat: repeat;
+    background-position: top;
+    background-size: contain;
+
+}
+
+
+#portalhubbg
+{
+
+    color: rgb(1, 53, 48);
+    background-color: black;
+    width: 1980px;
+    height: 720px;
+    background-image: url(images/portal2038digiscape.png);
+    margin: auto auto;
+    padding: 4% 2% ;
+    position: static;
+    background-clip:padding-box;
+    text-align: center;
+    
+   
+}
+
+#hear2038 
+
+{   display: table;
+    float: left;
+    border-width: 30px;
+    border-color: rgb(238, 239, 240);
+    border-style: solid;    
+    width: 15%;
+    height: 20%;
+font-size: 24px;
+color: aliceblue;
+padding-top: 20%;
+background-image: url(images/0000.jpg);
+background-size: contain;
+background-repeat: no-repeat;
+background-position: top;
+background-color: black;
+margin-left: 8%;
+
+
+}
+
+            #see2038
+            {border-width: 30px;
+                border-color: aliceblue;
+                border-style: solid;  
+                background-image: url(images/cubologygreen.JPG);
+                background-size: contain;
+                background-repeat: no-repeat;
+                background-position: top;
+                background-color: black;
+                width: 15%;
+                height: 20%;
+            font-size: 24px;
+            float: left;
+            color: aliceblue;
+            padding-top: 20%;
+            margin-left: 2%;}
+
+                        #aIsituation2038
+                        {border-width: 30px;
+                            border-color: aliceblue;
+                            border-style: solid;   
+                            width: 15%;
+                            height: 20%;
+                        font-size: 24px;
+                            float: left;
+                        color: aliceblue;
+                        padding-top: 20%;;
+                        background-image: url(images/huxaI.JPG);
+                        background-size: contain;
+                        background-repeat: no-repeat;
+                        background-position: top;
+                        margin-left: 2%;
+                        background-color: black;
+                    } 
+                                    #PortalERR20312023
+                                    {border-width: 30px;
+                                        border-color: aliceblue;
+                                        border-style: solid;   
+                                        background-image: url(images/chaospherevio.JPG);
+                                        background-size: contain;
+                                        background-repeat: no-repeat;
+                                        background-position: top;
+                                        width: 15%;
+                                        height: 20%;
+                                    font-size: 24px;
+                                        float: left;
+                                    color: aliceblue;
+                                    padding-top: 20%;
+                                    margin-left: 2%;
+                                    background-color: black;}
+
+
+                                    #hear2038:hover{ border-color: blue rgb(249, 243, 243) blue white; 
+                                        background-image: url(cubology.gif);
+                                        background-size: contain;
+                                        background-repeat: no-repeat;
+                                        background-position: top;}
+                                    #PortalERR20312023:hover{ border-color: rgb(255, 0, 191) white rgb(223, 23, 183) white; 
+                                        background-image: url(chaovio.gif);
+                                        background-size: contain;
+                                        background-repeat: no-repeat;
+                                        background-position: top;}
+                                    #aIsituation2038:hover{ border-color: rgba(246, 243, 247, 0.901) white rgb(6, 5, 6) white;
+                                        background-image: url(huxAi.gif);
+                                        background-size: contain;
+                                        background-repeat: no-repeat;
+                                        background-position: top; }
+                                    #see2038:hover{ border-color: rgb(21, 219, 38) white rgb(17, 227, 6) white;
+                                        background-image: url(cubologygreen.gif);
+                                        background-size: contain;
+                                        background-repeat: no-repeat;
+                                        background-position: top; }
+                                    
+
+#exitsim
+{
+    width: 150px;
+    height: auto;
+    position: static;
+    margin: auto auto;
+   
+}
+
+
+                                    h1 
+     {
+        display: block;
+        animation-name: cc2038;
+        animation-duration: 5s ;
+        font-style: oblique;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        text-decoration: dotted;
+        text-shadow: 10px 10px black;  
+        color: aquamarine;
+        position: fixed;  
+        margin: 1% 1%;     
+        width: 250px;
+                            
+                                    }
+
+.trademark
+{
+    margin: 5% 5%;
+    position: inherit;
+}
+
+#playersound
+{
+    margin: 4% 4%;
+    position: inherit;
+    mask-position: 2%;
+}
+
+footer {
+z-index: 1;
+position: static;
+margin: auto auto;
+z-index: 0;
+margin-top: 10%;
+margin-bottom: 4%;}
+
+.icon
+{margin: 10% 10%}
+
+h1:hover
+{
+    font-size: 49px;
+    transition: 1s;
+    opacity: 0.2;
+}    
+
+
+
+
+
+
+@keyframes cc2038 {
+    0%   {color:rgb(191, 222, 36)}
+    25%   {color:rgb(182, 24, 37)}
+    50%  {color:rgb(200, 11, 11)}
+    75%   {color:rgb(1, 237, 9)}
+    100% {color:rgb(0, 65, 206)}
+                                   
+                    }
+
+
+
+ /*Media queries*/
+
+ @media only screen and (max-width:760px)
+ {
+
+    .sampleclass
+    {
+        width: 10%;
+        height: 10%;
+    }
+     body
+     {
+        background-image: url(background2038.gif);
+         width:100%;
+         padding: 1% 1%;
+         margin-bottom: 10%;
+     }
+
+     h1 
+     {
+margin: auto auto;
+     }
+     #portalhubbg
+     {
+        
+
+       
+        border-width: 1px; 
+         width: 100%;
+          height: 100%;  
+          background-image: url(images/portal2038digiscape.png);
+          margin: auto auto;
+       
+     }
+     #hear2038
+     {
+        border-width: 1px; 
+         width: 100%;
+         height: 30%;  
+         margin-left: -2%;
+         
+     }
+     #see2038
+     {      
+       
+        border-width: 1px; 
+          width: 100%;
+          height: 30%;  
+          margin-left: -2%;
+     }
+ 
+     #aIsituation2038
+     {
+        
+        border-width: 1px; 
+         width: 100%;
+         height: 30%;  
+         margin-left: -2%;
+     }
+ 
+     #PortalERR20312023
+     {
+        border-width: 1px; 
+         width: 100%;
+         height: 30%;  
+         margin-left: -2%;
+     }
+ 
+ footer 
+ {
+    margin-top: 200px;
+    position: inherit;
+
+ }
+
+#startgame
+{display: none;}
+ }

@@ -1,0 +1,72 @@
+/*  Mahiyoshi CSS files */
+
+body
+{
+    text-align: center;
+    padding: 25% 25% 25%;
+    font-size: 12px;
+    color: rgb(21, 208, 158);
+    background-color: black;
+    width: 420px;
+  
+}
+
+#hyperlnk
+{
+    border-width: 25px 25px;
+    border-color: rgba(132, 255, 0, 0.21);
+    width: 350px;
+    height: auto;
+   
+    margin: auto auto;
+    color: rgb(238, 25, 43);
+    font-family: fantasy;
+    padding: 4% 4%;
+}
+
+a:hover { color:rgb(187, 15, 161)}
+a:active {color:rgb(164, 42, 99)}
+a:visited {color:rgb(7, 152, 185)}
+a:link {color:rgb(9, 154, 55)}
+
+
+.goodday
+{
+    font-size: 44px;
+    text-decoration: dotted;
+    text-shadow: 10px 10px 10px;
+    animation-name: titleentrance;
+    animation-duration:60s;
+    font-family: illegalegalfont;
+    color: white;
+    background-color: rgb(47, 2, 2);
+    padding: 4% 4%;
+    width: 420px;
+    border-style:dashed;
+    border-width: 5px 5px 5px;
+}
+
+
+.horizon
+{
+    font-size: 18px;
+    color: white;
+}
+
+
+
+@keyframes titleentrance {
+    0%   {color:white}
+    25%  {color:blue}
+    50%  {color:red}
+    75%  {color:pink}
+    100% {color:green}
+
+  }
+
+@font-face {
+    font-family: illegalegalfont;
+    src: url(burned-letters-font/BurnedLettersByMartaVanEck-j7M9.ttf);
+  }
+  
+ 
